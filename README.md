@@ -1,2 +1,2 @@
 # autodoc
-automatic ai document for python code or projects 
+automatic ai generated documentation service for python code or projects 
